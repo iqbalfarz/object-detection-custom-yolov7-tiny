@@ -19,19 +19,19 @@ Training YOLOv7-pretrained model on custom dataset for Person and Car Object.
 
 #### precision
 
-<img src="./result/precision_curve.png">
+<img src="./result/precision_curve.png" height="200px" width="400px">
 
 #### Recall
 
-<img src="./result/recall_curve.png">
+<img src="./result/recall_curve.png" height="200px" width="400px">
 
 #### F1-Curve
 
-<img src="./result/f1_curve.png">
+<img src="./result/f1_curve.png" height="200px" width="400px">
 
 #### Confusion Matrix
 
-<img src="./result/confusion_matrix.png">
+<img src="./result/confusion_matrix.png" height="300px" width="400px">
 
 ### Report
 
