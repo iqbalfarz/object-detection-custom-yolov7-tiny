@@ -12,6 +12,7 @@ Training YOLOv7-pretrained model on custom dataset for Person and Car Object.
 - How I created dataset? Please [click to see the jupyter notebook](https://github.com/iqbalfarz/object-detection-custom-yolov7-tiny/blob/main/jupyter_notebooks/creating_custom_dataset_for_detection.ipynb)
 - Then, I created(uploaded) the dataset to Kaggle using Kaggle API and then
 - Trained YOLOv7-tiny model for `60` epochs on custom dataset and did the inferencing on test images.
+- Link to Kaggle Notebook: [Kaggle Notebook!](https://www.kaggle.com/mdiqbalbajmi/object-detection-person-and-car)
 
 <img src="./result/test_batch_0_pred.jpg" height="400px" width="400px">
 
@@ -32,7 +33,6 @@ Training YOLOv7-pretrained model on custom dataset for Person and Car Object.
 #### Confusion Matrix
 
 <img src="./result/confusion_matrix.png" height="300px" width="400px">
-
 
 ### Report
 
